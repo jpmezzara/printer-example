@@ -1,1 +1,3 @@
 <h1>Printer demo with node.js</h1>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porttitor egestas tempor. Curabitur at dictum massa, nec tempor dui. Etiam malesuada ligula a pellentesque ornare. In vehicula risus lobortis arcu auctor luctus. Vivamus pulvinar iaculis mi eu pharetra. Donec faucibus nisl felis. Sed at felis nunc. Etiam pretium lacus leo. Nullam nunc sapien, rutrum tristique finibus id, pretium convallis velit. Integer viverra eu elit sed dignissim. Etiam massa erat, vestibulum at est ut, facilisis vestibulum orci. Maecenas in augue lorem. Aliquam dignissim eros vitae sollicitudin lobortis. Mauris venenatis risus dolor, placerat aliquet leo consequat euismod. Aliquam erat volutpat. Vestibulum tristique at urna quis lacinia.
